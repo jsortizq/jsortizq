@@ -12,7 +12,7 @@ Infraestructura tecnológica, redes, seguridad de la información y automatizaci
 | [sqlserver-mantenimiento](https://github.com/jsortizq/sqlserver-mantenimiento) | Índices, estadísticas, CHECKDB, respaldos y reporte de salud para SQL Server |
 | [inventario-red](https://github.com/jsortizq/inventario-red) | Inventario de red en Python con exportación a Excel, incluye protocolos industriales |
 | [politicas-iso27001-pyme](https://github.com/jsortizq/politicas-iso27001-pyme) | Plantillas de políticas de seguridad ISO/IEC 27001:2022 para pymes |
-| [plc-ejemplos](https://github.com/jsortizq/plc-ejemplos) | Programas IEC 61131‑3: motor, semáforo, control de nivel con bombas alternadas |
+
 
 **Herramientas**
 
