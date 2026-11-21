@@ -41,4 +41,4 @@ Three small games built around systems that interact and state you can verify. E
 
 **Infrastructure:** Windows Server · Linux · networking & structured cabling · firewall & VPN · virtualization & backups · PLC (Siemens, Allen-Bradley, Schneider) · ISO/IEC 27001
 
-**Contact:** jsortizq@gmail.com · [Industrias Ortiz](https://jsortizq.github.io) · +57 300 295 0570
+**Contact:** jsortizq@gmail.com
