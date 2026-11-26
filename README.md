@@ -14,15 +14,14 @@ Three small games built around systems that interact and state you can verify. E
 
 | Project | What it shows |
 |---|---|
-| [**Signal Breach**](https://github.com/jsortizq/signal-breach) | Turn-based grid stealth: deterministic simulation, guard state machine, vision cones with line of sight, noise, undo via snapshots, an A* solver that proves each level can be beaten |
-| [**Overload Protocol**](https://github.com/jsortizq/overload-protocol) | Real-time 2D arena shooter: fixed-tick reproducible simulation with replays, modular weapons as Resources, pooled swept-ray projectiles, a three-phase boss, soak testing with a bot |
-| [**Relay Station**](https://github.com/jsortizq/relay-station) | Third-person 3D sandbox: power network graph, inventory & crafting with drag & drop, physics props, NavigationAgent3D drone, versioned save files |
+| [**Signal Breach**](https://github.com/jsortizq/signal-breach) · [▶ play](https://jsortizq.itch.io/signal-breach) | Turn-based grid stealth: deterministic simulation, guard state machine, vision cones with line of sight, noise, undo via snapshots, an A* solver that proves each level can be beaten |
+| [**Overload Protocol**](https://github.com/jsortizq/overload-protocol) · [▶ play](https://jsortizq.itch.io/overload-protocol) | Real-time 2D arena shooter: fixed-tick reproducible simulation with replays, modular weapons as Resources, pooled swept-ray projectiles, a three-phase boss, soak testing with a bot |
+| [**Relay Station**](https://github.com/jsortizq/relay-station) · [▶ play](https://jsortizq.itch.io/relay-station) | Third-person 3D sandbox: power network graph, inventory & crafting with drag & drop, physics props, NavigationAgent3D drone, versioned save files |
 
 #### 🌐 Full-stack web
 
 | Project | Stack |
 |---|---|
-| [**EduGestión**](https://github.com/jsortizq/colegio) | School management SPA: role-based access, students, teachers, grades, certificates, reports. React 18 · TypeScript · Tailwind · Vitest |
 | [**InventarioPR**](https://github.com/jsortizq/inventario-pr) | Inventory and cash register for small retail: transactional sales, cash reconciliation, offline demo mode. Angular 21 · Laravel 11 · Sanctum · MySQL |
 | [**Industrias Ortiz**](https://github.com/jsortizq/jsortizq.github.io) | Company website, live at [jsortizq.github.io](https://jsortizq.github.io) |
 
